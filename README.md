@@ -35,5 +35,5 @@ JavaScript · Node.js · Git · SQL · Python · APIs de IA (Claude, OpenAI, Gem
 
 ## Contato
 
-- LinkedIn: _adicionar link_
+- LinkedIn: [Valber Raphael Monteiro da Silva](https://www.linkedin.com/in/valber-raphael-monteiro-da-silva-80915b1ab/)
 - GitHub: [raphaelmonteiro789-boop](https://github.com/raphaelmonteiro789-boop)
